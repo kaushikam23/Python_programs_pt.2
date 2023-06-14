@@ -1,0 +1,25 @@
+﻿Iterations, Strings, Files
+
+
+1. Write Pythonic code that iteratively prompts the user for input. It should continue until the user enters 'done' and then return the average value. 
+
+
+2. Write a Python Program to check whether a number is prime or not using while loop and print appropriate messages
+
+
+3.  Write Pythonic code to find the factorial of any number entered through the keyboard. 
+
+
+
+
+4. A number with more than one digit is input through the keyboard. Write Pythonic code to reverse the digits in the number and find the sum of all the digits in the reversed number. 
+
+
+
+5. Write a Python program to read the file and count and print the lines that start with the word “From”. Prompt the user for the file name. Also use try/except to handle bad file names. 
+
+
+6. Write Pythonic code to multiply two matrices using nested loops and print the result. 
+
+
+7. Write Pythonic code to Count and Print the occurrence of each of the words in the file using dictionaries. Prompt the user for the file name. Also use try/except to handle bad file names.
